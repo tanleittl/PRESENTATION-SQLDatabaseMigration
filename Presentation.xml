@@ -12,9 +12,9 @@
   <Description>
     This presentation provides a detailed look at options for migrating an on-premises database to SQL Database, with a main focus on the Import / Export service and DAC Framework.
   </Description>
-  <Document RemoveSpeakerNotes="true">.\SQLDatabaseMigration.pptx</Document>
+  <Document RemoveSpeakerNotes="false">.\SQLDatabaseMigration.pptx</Document>
   <Title>Migrating to Windows Azure SQL Database</Title>
-  <Version>1.0.1</Version>
+  <Version>1.0.2</Version>
   <SlideThumbnail>1</SlideThumbnail>
   <CustomProperties>
     <Property Name="Filter" Value="Foundation" />
